@@ -1,0 +1,2 @@
+# microstructure-alignment
+Aligning  the microstructure vertically using  machine learning.Currently to create 3d microstructure, microstructure of a sample is taken at every depth  interval .Microstructures are aligned using  pinhole created at thecorner of sample. Our objective will be to align these microstructures without using pinhole with the help of machine learning  and reconstruct a 3d microstructure out of it
